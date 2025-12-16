@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\po.brillant\\5N6-mobile-2-prof\\Examens\\A24\\final\\serveur\\",
+  "WorkspaceRootPath": "C:\\Users\\2128368\\Documents\\GitHub\\5N6_Formatif_Final\\serveur\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2476D285-22FD-4C05-BB0E-4335AAF65B97}|serveur\\serveur.csproj|c:\\users\\po.brillant\\5n6-mobile-2-prof\\examens\\a24\\final\\serveur\\serveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2476D285-22FD-4C05-BB0E-4335AAF65B97}|serveur\\serveur.csproj|c:\\users\\2128368\\documents\\github\\5n6_formatif_final\\serveur\\serveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2476D285-22FD-4C05-BB0E-4335AAF65B97}|serveur\\serveur.csproj|solutionrelative:serveur\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\po.brillant\\5N6-mobile-2-prof\\Examens\\A24\\final\\serveur\\serveur\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\2128368\\Documents\\GitHub\\5N6_Formatif_Final\\serveur\\serveur\\Program.cs",
               "RelativeDocumentMoniker": "serveur\\Program.cs",
-              "ToolTip": "C:\\Users\\po.brillant\\5N6-mobile-2-prof\\Examens\\A24\\final\\serveur\\serveur\\Program.cs",
+              "ToolTip": "C:\\Users\\2128368\\Documents\\GitHub\\5N6_Formatif_Final\\serveur\\serveur\\Program.cs",
               "RelativeToolTip": "serveur\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-03T15:55:58.147Z",
               "EditorCaption": ""
